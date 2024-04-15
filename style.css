@@ -1,0 +1,43 @@
+#header{
+	background-color: #b50d0d;
+	color: white;
+	height:80px;
+}
+#header h2{
+	padding-top:10px;
+	padding-left:100px;
+	float: left;
+}
+
+#header ul{
+	padding-top: 18px;
+	float:right;
+}
+#header ul li{
+	display:inline;
+	margin-right: 20px;
+}
+#header ul li a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	font-family:georgia;
+}
+#content{
+	width: 45%;
+	height:450px;
+	float :left;
+	margin-left:100px;
+	margin-top:25px;
+}
+#content .link{
+	background-color:#b50d0d;
+	color:white;
+	float:left;
+	margin-left:35px;
+	padding:10px;
+}
+#content2{
+	font-size:20px;
+	font-family:calibri;
+}
